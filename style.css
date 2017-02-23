@@ -63,3 +63,16 @@ header a:hover{
   color: #cccccc;
   font-weight: bold;
 }
+
+/*show case*/
+
+#showcase{
+  min-height: 400px;
+  background:url('cover2.jpg') no-repeat 0 -100px;
+  text-align: center;
+  color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
