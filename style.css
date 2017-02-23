@@ -4,6 +4,22 @@ body{
   line-height: 1.5;
   padding: 0;
   margin: 0;
-  background-color: #f4f4f4;
-  
+  background-color: white;
+}
+
+/*Global*/
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+/*header*/
+
+header{
+  background: #6c6a69;
+  color: white;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: #1dcdba 3px solid;
 }
