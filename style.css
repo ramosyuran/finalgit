@@ -80,9 +80,10 @@ header a:hover{
   background:url('cover2.jpg') no-repeat 0 -100px;
   /*text-align: center;*/
   color: white;
-  -webkit-background-size: cover;
+  /*border-bottom: #1dcdba 6px solid;*/
+  /*-webkit-background-size: cover;
   -moz-background-size: cover;
-  -o-background-size: cover;
+  -o-background-size: cover;*/
   background-size: cover;
 }
 
@@ -98,7 +99,7 @@ header a:hover{
 
 #newsletter{
   color: white;
-  /*padding: 15px;*/
+  margin-top: -13px;
   background: #6c6a69;
 }
 
@@ -120,7 +121,8 @@ header a:hover{
 /*boxes*/
 
 #boxes{
-    margin-top: 20px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 #boxes .box{
@@ -135,7 +137,7 @@ header a:hover{
 }
 
 footer{
-  padding: 20px;
+  padding: 15px;
   margin-top: 20px;
   color: white;
   background-color: #1dcdba;
